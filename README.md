@@ -68,6 +68,7 @@
     * SourceTree
     * GitKraken
     * Gitup
+    * Tool 2
 
 ### Exercises
 
