@@ -89,7 +89,7 @@ Modify and commit a file, check it with git log and git blame. Then return to th
 
 #### Exercise 4
 
-Create a file and commit it on master. Create a branch a commit one modification, then cherry pick the modification on master. Delete the other branch.
+Create a file and commit it on master. Create a branch and commit one modification, then cherry pick the modification on master. Delete the other branch.
 
 #### Exercise 5
 
