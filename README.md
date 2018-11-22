@@ -69,6 +69,7 @@
     * GitKraken
     * Gitup
     * Tool 2
+    * Tool01
 
 ### Exercises
 
